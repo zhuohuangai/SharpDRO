@@ -33,10 +33,10 @@ python main.py --num_severity number-of-selected-severities -c type-of-the-corru
 
 ### Acknowledgement
 Some of the codes are depend on [Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization](https://github.com/kohpangwei/group_DRO). 
- Appreciate their contributions!
+ Appreciate their contributions.
 
 ### Reference
-If you find this code helpful, please consider cite our paper, thanks a lot!
+If you find this code helpful, please consider cite our paper, thanks!
 
 ```
 @article{huang2023robust,
