@@ -36,7 +36,7 @@ Some of the codes are depend on [Distributionally Robust Neural Networks for Gro
  Appreciate their contributions.
 
 ### Reference
-If you find this code helpful, please consider cite our paper, thanks!
+If you find this code helpful, please consider citing our paper, thanks!
 
 ```
 @article{huang2023robust,
