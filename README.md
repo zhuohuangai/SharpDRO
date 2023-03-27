@@ -5,7 +5,7 @@ Zhuo Huang<sup>1, *</sup>, Miaoxi Zhu<sup>2, *</sup>, Xiaobo Xia<sup>1</sup>, Li
 <sup>1</sup>The University of Sydney, <sup>2</sup>Wuhan University,  <sup>3</sup>JD Explore Academy, <sup>4</sup>University of Science and Technology of China, <sup>5</sup>Nanjing University of Science and Technology, <sup>6</sup>Hong Kong Baptist University
 
 <div align=center>
-<img width=800 src=images/photon-limited-corruption.png/>
+<img width=600 src=images/photon-limited-corruption.png/>
  </div>
 
 
