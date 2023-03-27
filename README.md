@@ -28,7 +28,7 @@ Then, the photon-limited corruptions with poisson distribution would be automati
 
 For ImageNet-30, we provide a pre-splited file lists in `./imagenet30_filelist/` folder. To generate your own file lists, you can run `python ./imagenet30_filelist/split_imagenet30.py`
 
-All datasets are supposed to be under ./data.
+All datasets are supposed to be under `./data`.
 
 ### Train
 Train your model:
